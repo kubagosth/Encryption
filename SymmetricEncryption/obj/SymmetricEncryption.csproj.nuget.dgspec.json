@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Git\\Encryption\\SymmetricEncryption\\SymmetricEncryption.csproj": {}
+    "C:\\GitHub\\Encryption\\SymmetricEncryption\\SymmetricEncryption.csproj": {}
   },
   "projects": {
-    "C:\\Git\\Encryption\\SymmetricEncryption\\SymmetricEncryption.csproj": {
+    "C:\\GitHub\\Encryption\\SymmetricEncryption\\SymmetricEncryption.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\Encryption\\SymmetricEncryption\\SymmetricEncryption.csproj",
+        "projectUniqueName": "C:\\GitHub\\Encryption\\SymmetricEncryption\\SymmetricEncryption.csproj",
         "projectName": "SymmetricEncryption",
-        "projectPath": "C:\\Git\\Encryption\\SymmetricEncryption\\SymmetricEncryption.csproj",
-        "packagesPath": "C:\\Users\\jaku0065\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\Encryption\\SymmetricEncryption\\obj\\",
+        "projectPath": "C:\\GitHub\\Encryption\\SymmetricEncryption\\SymmetricEncryption.csproj",
+        "packagesPath": "C:\\Users\\kubag\\.nuget\\packages\\",
+        "outputPath": "C:\\GitHub\\Encryption\\SymmetricEncryption\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\jaku0065\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kubag\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +27,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://packages.xenko.com/nuget": {}
         },
         "frameworks": {
           "net6.0-windows7.0": {
@@ -61,7 +63,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

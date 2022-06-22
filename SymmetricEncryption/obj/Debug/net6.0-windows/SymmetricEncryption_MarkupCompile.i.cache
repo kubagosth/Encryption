@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Git\Encryption\SymmetricEncryption\obj\Debug\net6.0-windows\
+C:\GitHub\Encryption\SymmetricEncryption\obj\Debug\net6.0-windows\
 SymmetricEncryption
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Git\Encryption\SymmetricEncryption\App.xaml
+C:\GitHub\Encryption\SymmetricEncryption\App.xaml
 11407045341
 
 91908181438
-1942030480316
+194-97651837
 MainWindow.xaml;
 
 False
