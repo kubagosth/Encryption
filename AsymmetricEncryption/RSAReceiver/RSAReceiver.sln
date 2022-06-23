@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSAReceiver", "RSAReceiver.csproj", "{F8E504D8-2544-4C84-A359-228F0EE1E844}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8E504D8-2544-4C84-A359-228F0EE1E844}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8E504D8-2544-4C84-A359-228F0EE1E844}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8E504D8-2544-4C84-A359-228F0EE1E844}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8E504D8-2544-4C84-A359-228F0EE1E844}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10CA54A6-CF93-4367-9858-A671C9AD629F}
+	EndGlobalSection
+EndGlobal
